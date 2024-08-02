@@ -1,0 +1,3 @@
+Aggiunta condivisione di file funzionante.
+Problema nel design dei messaggi file.
+Non cripta i file.
