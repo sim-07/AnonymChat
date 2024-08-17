@@ -1,1 +1,1 @@
-anonymchat.altervista.org
+https://anonymchat.altervista.org
